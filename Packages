@@ -1,0 +1,18 @@
+Package: browser-watch
+Version: 1.0
+Architecture: all
+Maintainer: Nicolas Filippozzi <nicolasfilippozzi@gmail.com>
+Depends: sqlite3,mailx
+Recommends: Exim4
+Filename: ./browser-watch_1.0_all.deb
+Size: 9464
+MD5sum: 8f0124091398e8ffaffaf20c50e06eb1
+SHA1: 6e0b3bcbf872ed81f4e22fb796cc86e22108fe77
+SHA256: 6d29502ca76342cce11a8bab6e2924ad0650b5601df15919360fe35649b7272d
+Section: utils
+Priority: optional
+Description: Envoi par email un rapport sur l'historique de navigation
+ browser-watch permet d'envoyer un rapport sur l'historique de
+ navagation des navigateurs instalés
+ par e-mail.
+

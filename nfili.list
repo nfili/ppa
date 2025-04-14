@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/nfili-repo.gpg] https://github.com/nfili/ppa ./
