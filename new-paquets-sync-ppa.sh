@@ -9,8 +9,8 @@ gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
 apt-ftparchive release . > Release
-gpg --default-key "$email" -abs -o - Release > Release.gpg
-gpg --default-key "$email" --clearsign -o - Release > InRelease
+gpg --default-key 958102F869AB2CD1 -abs -o - Release > Release.gpg
+gpg --default-key 958102F869AB2CD1 --clearsign -o - Release > InRelease
 
 # Commit & push PPA repo to github
 git add -A
