@@ -47,3 +47,19 @@ Description: Thème Plymouth minecraft
  Un thème Plymouth inspiré de Minecraft pour les 13 ans de mon fils.
  Compatible avec KDE Plasma.
 
+Package: plymouth-theme-minecraft
+Version: 1.0.1
+Architecture: all
+Maintainer: Nikky <nicolasfilippozzi@gmail.com>
+Depends: plymouth (>= 0.8)
+Filename: ./plymouth-theme-minecraft_1.0.1_all.deb
+Size: 2700244
+MD5sum: 63ed141cbda519aed2ba6362a7acd284
+SHA1: 5e8ed014b9ca5cb443898c3a96192037cba4df2c
+SHA256: 42eb3952693fb03a78f863c324bbb2a2852c0155679ee3a8ca9ac221c87429a4
+Section: themes
+Priority: optional
+Description: Thème Plymouth minecraft
+ Un thème Plymouth inspiré de Minecraft pour les 13 ans de mon fils.
+ Compatible avec KDE Plasma.
+
