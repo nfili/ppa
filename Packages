@@ -15,3 +15,35 @@ Description: Envoi par email un rapport sur l'historique de navigation
  navagation des navigateurs instalés
  par e-mail.
 
+Package: plymouth-theme-ff7-rebirth
+Version: 1.0
+Architecture: all
+Maintainer: Nikky <nicolasfilippozzi@gmail.com>
+Depends: plymouth (>= 0.8)
+Filename: ./plymouth-theme-ff7-rebirth_1.0_all.deb
+Size: 2613996
+MD5sum: d70031cf2eaf7af09f7d14919316f948
+SHA1: decd67a1826f52c6afdd8843d833af3ef3ccac8a
+SHA256: ff2bdaaf1a1db8f211eecba4702df621c3192698d80232279efc684696b6beae
+Section: themes
+Priority: optional
+Description: Thème Plymouth FF7 Rebirth
+ Un thème Plymouth inspiré de Final Fantasy VII Rebirth.
+ Compatible avec KDE Plasma.
+
+Package: plymouth-theme-minecraft
+Version: 1.0
+Architecture: all
+Maintainer: Nikky <nicolasfilippozzi@gmail.com>
+Depends: plymouth (>= 0.8)
+Filename: ./plymouth-theme-minecraft_1.0_all.deb
+Size: 2700112
+MD5sum: 2c96d4777b125922ee7de714e429f392
+SHA1: 6a2ba6469a4e3e2f928e11febcdda9c72d799bdd
+SHA256: bf185ae8c362dce75dbc78e16982b1aaf1a28db940afb86ef7b942419a0e06cb
+Section: themes
+Priority: optional
+Description: Thème Plymouth minecraft
+ Un thème Plymouth inspiré de Minecraft pour les 13 ans de mon fils.
+ Compatible avec KDE Plasma.
+
